@@ -1,0 +1,9 @@
+export XDG_CACHE_HOME=/mnt/bn/brench-hl-volume-v1/.cache
+export HF_HOME=/mnt/bn/brench-hl-volume-v1/.cache/huggingface
+export TRANSFORMERS_CACHE=/mnt/bn/brench-hl-volume-v1/.cache/transformers
+export HF_DATASETS_CACHE=/mnt/bn/brench-hl-volume-v1/.cache/datasets
+export HF_ENDPOINT=http://huggingface-proxy-sg.byted.org 
+export HF_HUB_DISABLE_XET=True
+export WANDB_PROJECT=brench-llm-training
+export DISABLE_VERSION_CHECK=1
+export PYTHONNOUSERSITE=1
