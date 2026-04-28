@@ -98,7 +98,3 @@ python data_binary_split.py \
 - `--user-template` 模式：按占位符拼接多列
 - 未指定时：默认优先尝试 `article + comment`，否则自动拼接整行键值
 
-## 文档
-
-- 代码逻辑说明见：`docs/code_logic/overview.md`
-
